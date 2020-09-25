@@ -1,10 +1,8 @@
-### I am Neto!
-
-## I am an entrepreneur who loves tech!!!
+# I am Neto!
 
 ## I am Founder at Northern and Cofounder at Wabafood
 
-
+<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/northern-ventures/images/master/Northern_Vers%C3%A3o1.png" />
 
 
 
