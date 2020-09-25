@@ -15,7 +15,7 @@
 <br>
 <br>
 
-[<img align="center" alt="Wabafood" width="200px" src="https://raw.githubusercontent.com/northern-ventures/images/master/Northern_Vers%C3%A3o1.png" />][waba-website]
+[<img align="center" alt="Wabafood" width="200px" src="https://raw.githubusercontent.com/Wabafood/images/master/wabafood_logo.png" />][waba-website]
 
 <br>
 
