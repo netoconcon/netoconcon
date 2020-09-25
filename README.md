@@ -1,8 +1,7 @@
 # I am Neto! [<img align="center" alt="Neto Concon Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][neto-linkedin]
 
 <br>
-
-## I am Founder at Northern and Cofounder at Wabafood
+### I am Founder at Northern and Cofounder at Wabafood
 
 <br>
 
