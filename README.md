@@ -15,7 +15,7 @@
 <br>
 <br>
 
-[<img align="center" alt="Wabafood" width="200px" src="https://raw.githubusercontent.com/Wabafood/images/master/wabafood_logo.png" />][waba-website]
+[<img align="center" alt="Wabafood" width="80px" src="https://raw.githubusercontent.com/Wabafood/images/master/wabafood_logo.png" />][waba-website]
 
 <br>
 
