@@ -1,16 +1,28 @@
 # I am Neto! [<img align="center" alt="Neto Concon Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][neto-linkedin]
 
+<br>
+
 ## I am Founder at Northern and Cofounder at Wabafood
 
-[<img align="center" alt="Northern" width="200px" src="https://raw.githubusercontent.com/northern-ventures/images/master/Northern_Vers%C3%A3o1.png" />][northern-website]
 <br>
+
+[<img align="center" alt="Northern" width="200px" src="https://raw.githubusercontent.com/northern-ventures/images/master/Northern_Vers%C3%A3o1.png" />][northern-website]
+
+<br>
+<br>
+
 [<img align="center" alt="Northern Blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][northern-blog]
 [<img align="center" alt="Northern Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][northern-linkedin]
 [<img align="center" alt="Northern Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][northern-insta]
+
 <br>
 <br>
+
 [<img align="center" alt="Wabafood" width="200px" src="https://raw.githubusercontent.com/northern-ventures/images/master/Northern_Vers%C3%A3o1.png" />][waba-website]
+
 <br>
+<br>
+
 [<img align="center" alt="Wabafood Blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][waba-blog]
 [<img align="center" alt="Wabafood Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][waba-linkedin]
 [<img align="center" alt="Wabafood Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][waba-insta]
