@@ -2,9 +2,10 @@
 
 ## I am Founder at Northern and Cofounder at Wabafood
 
-<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/northern-ventures/images/master/Northern_Vers%C3%A3o1.png" />
+[<img align="left" alt="Ruby" width="160px" src="https://raw.githubusercontent.com/northern-ventures/images/master/Northern_Vers%C3%A3o1.png" />]("https://wwww.northern.com.br")
 
-
+<br>
+<br>
 
 [<img align="left" alt="Neto Concon Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Neto Concon Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
