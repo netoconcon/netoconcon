@@ -38,6 +38,16 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
+<br>
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=netoconcon&show_icons=true&hide_border=true" />
+
+</details>
+
+
 [northern-website]: https://northern.com.br
 [northern-blog]: https://blog.northern.com.br
 [northern-insta]: https://www.instagram.com/northernventures/
